@@ -148,7 +148,6 @@ main a {
 }
 
 main a:hover{
-    padding: 5px;
     background-color: var(--cor3);
     border-radius: 3px;
 }
