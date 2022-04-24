@@ -78,8 +78,7 @@ nav > a{
 nav > a:hover{
     padding: 10px;
     background-color: var(--cor0);
-    border-radius: 5px;
-    transition-duration: 0.5s;
+    border-radius: 3px;
 }
 
 main{
@@ -151,8 +150,7 @@ main a {
 main a:hover{
     padding: 5px;
     background-color: var(--cor3);
-    border-radius: 5px;
-    transition-duration: 0.5s;
+    border-radius: 3px;
 }
 
 a.externo::after {
